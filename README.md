@@ -7,6 +7,8 @@ This project analyses two years of hourly rental data, tests a hypothesis about 
 
 * Github Link :- https://github.com/SonalPriyam/Sigmoid-Task-
 
+* Streamlit Demo Link :- https://gxhsd5blpnyvo9wggrkb3s.streamlit.app/
+
 ---
 
 ## The problem
