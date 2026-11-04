@@ -5,6 +5,8 @@ This project analyses two years of hourly rental data, tests a hypothesis about 
 
 **Author:** Sonal Priyam
 
+* Github Link :- https://github.com/SonalPriyam/Sigmoid-Task-
+
 ---
 
 ## The problem
@@ -118,6 +120,5 @@ Then open http://localhost:8501.
 
 
 ---
-
 
 
